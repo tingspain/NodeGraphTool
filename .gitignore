@@ -2,6 +2,10 @@
 [Tt]humbs.db
 *.DS_Store
 
+#Compiled code
+*.exe*
+*.dll
+
 #Visual Studio files
 *.[Oo]bj
 *.user
@@ -70,6 +74,7 @@ packages/
 # C#
 [Oo]bj
 [Bb]in
+*.pdb
 *.user
 *.suo
 *.[Cc]ache

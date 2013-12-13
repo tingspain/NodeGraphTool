@@ -103,7 +103,7 @@ namespace NodeGraphLayoutEdit
             this.contextMenuStrip.Name = "contextMenuStrip";
             this.contextMenuStrip.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip_Opening);
             // 
-            // abilityToolStripMenuItem
+            // gamenodeToolStripMenuItem
             // 
             this.gamenodeToolStripMenuItem.Name = "gamenodeToolStripMenuItem";
             this.gamenodeToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
